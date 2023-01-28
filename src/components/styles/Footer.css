@@ -8,7 +8,10 @@
 .pot {
   width: 400px;
   height: 400px;
+  margin: 50px;
 }
 .port{
     display: flex;
+    flex-wrap: wrap;
+    margin: 70px;
 }

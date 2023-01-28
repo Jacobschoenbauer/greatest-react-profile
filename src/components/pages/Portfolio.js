@@ -9,18 +9,18 @@ export default function Portfolio() {
     <div>
       <h1>Portfolio</h1>
       <p className="port">
-        <a href="https://github.com/Jacobschoenbauer">
+        <a href="https://jacobschoenbauer.github.io/02-css-portfolio/">
           <img className="pot" src={Screenshot202209} alt=""></img>
         </a>
 
-        <a href="https://www.facebook.com/jacob.schoenbauer">
+        <a href="https://jacobschoenbauer.github.io/04-api-jquiz/">
           <img className="pot" src={Screenshot2022} alt="Github"></img>
         </a>
 
-        <a href="https://www.linkedin.com/in/jacob-schoenbauer-281374239/">
+        <a href="https://llyruss.github.io/SuperSearch/">
           <img className="pot" src={supersearch} alt="Github"></img>
         </a>
-        <a href="https://www.linkedin.com/in/jacob-schoenbauer-281374239/">
+        <a href="https://whatscookin.herokuapp.com/">
           <img className="pot" src={cooking} alt="Github"></img>
         </a>
       </p>
