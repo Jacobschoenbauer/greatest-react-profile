@@ -1,8 +1,14 @@
-.footer{
-    display: flex;
-    justify-content: center;
-   
+.footer {
+  display: flex;
+  justify-content: center;
 }
-img{
-    width: 45px;
+.end {
+  width: 45px;
+}
+.pot {
+  width: 400px;
+  height: 400px;
+}
+.port{
+    display: flex;
 }

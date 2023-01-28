@@ -9,15 +9,15 @@ function Footer() {
     <div>
       <p className="footer">
         <a href="https://github.com/Jacobschoenbauer">
-          <img src={githubLogo} alt="Github"></img>
+          <img className="end" src={githubLogo} alt="Github"></img>
         </a>
 
         <a href="https://www.facebook.com/jacob.schoenbauer">
-          <img src={facelogo} alt="Github"></img>
+          <img className="end" src={facelogo} alt="Github"></img>
         </a>
 
         <a href="https://www.linkedin.com/in/jacob-schoenbauer-281374239/">
-          <img src={linklogo} alt="Github"></img>
+          <img className="end" src={linklogo} alt="Github"></img>
         </a>
       </p>
     </div>
