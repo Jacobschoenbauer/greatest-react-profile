@@ -1,6 +1,6 @@
 import React from "react";
 import resume from "../images/correctresume.png";
-import text from "../images/2023 resume.txt";
+import text from "../images/2023 resume.pdf";
 export default function Resume() {
   return (
     <div>
