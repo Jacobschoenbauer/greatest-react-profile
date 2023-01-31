@@ -6,12 +6,12 @@
   width: 45px;
 }
 .pot {
-  width: 400px;
-  height: 400px;
-  margin: 50px;
+  width: 70%;
+  height: 70%;
+  
 }
 .port{
     display: flex;
     flex-wrap: wrap;
-    margin: 70px;
+    
 }

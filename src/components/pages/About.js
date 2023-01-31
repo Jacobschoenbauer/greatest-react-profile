@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div>
+    <div className="mainpages">
       <h1>About Page</h1>
       <p>
         I worked in manfacturing pop cans for 15 years. It was one of the best

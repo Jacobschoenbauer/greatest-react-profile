@@ -6,7 +6,7 @@ import cooking from "../images/firstpagecooking.png";
 
 export default function Portfolio() {
   return (
-    <div>
+    <div className="mainpages">
       <h1>Portfolio</h1>
       <p className="port">
         <a href="https://jacobschoenbauer.github.io/02-css-portfolio/">

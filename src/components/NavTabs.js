@@ -4,7 +4,10 @@ import "./styles/Header.css";
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
-      <img className="jacob" src={IMG_3415} alt="Jacob Schoenbauer"></img>
+      <div className="handsome">
+        <img className="jacob" src={IMG_3415} alt="Jacob Schoenbauer"></img>
+        <p className="name">Jacob Edward Schoenbauer</p>
+      </div>
       <div className="header">
         <ul className="nav nav-tabs">
           <li className="nav-item">

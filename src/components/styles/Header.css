@@ -8,8 +8,27 @@ ul {
 .header {
   display: flex;
   flex-direction: row-reverse;
+  background-color: rgb(210, 202, 202) ;
 }
 .jacob {
   width: 200px;
-  margin: 40px;
+  margin: 40px 10px 0px 40px;
+
+}
+.handsome{
+  display: flex;
+  align-items: flex-end;
+  background-image: url(../images/woodbackground.png);
+}
+.name{
+  font-size: 60px;
+  margin: 0px;
+}
+.mainpages{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+body{
+  background-color: gray;
 }
