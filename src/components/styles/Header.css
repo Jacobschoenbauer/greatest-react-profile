@@ -23,6 +23,7 @@ ul {
 .name{
   font-size: 60px;
   margin: 0px;
+  color: rgb(237, 10, 44);
 }
 .mainpages{
  display: flex;
@@ -31,4 +32,9 @@ ul {
 }
 body{
   background-color: gray;
+}
+.coolwrite{
+  font-style: italic;
+  font-size: 40px;
+  color: azure;
 }
