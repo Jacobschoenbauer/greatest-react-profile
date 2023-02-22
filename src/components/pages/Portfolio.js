@@ -1,5 +1,5 @@
 import React from "react";
-import Screenshot202209 from "../images/Screenshot 2022-09-03 102949.png";
+import Screenshot202209 from "../images/homerecord.png";
 import Screenshot2022 from "../images/Screenshot 2022-09-25 123904.png";
 import supersearch from "../images/super search photo.png";
 import cooking from "../images/firstpagecooking.png";
@@ -11,7 +11,7 @@ export default function Portfolio() {
     <div className="mainpages">
       <h1>Portfolio</h1>
       <p className="port">
-        <a href="https://jacobschoenbauer.github.io/02-css-portfolio/">
+        <a href="https://fast-caverns-21349.herokuapp.com/">
           <img className="pot" src={Screenshot202209} alt="Basic CSS"></img>
         </a>
 
